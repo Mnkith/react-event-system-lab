@@ -1,5 +1,5 @@
 # React Event System Lab
-
+ 
 ## Overview
 
 In this lab you'll respond to events in React and write event handlers.
